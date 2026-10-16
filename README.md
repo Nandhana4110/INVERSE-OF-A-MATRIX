@@ -18,5 +18,6 @@ r = np.linalg.inv(a)
 print(r)
 ## Output:
 <img width="1327" height="866" alt="image" src="https://github.com/user-attachments/assets/4162573a-b069-4079-92fb-82b5e4221a5f" />
+
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
