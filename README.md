@@ -17,6 +17,6 @@ a = np.array([[2,1,1],[1,1,1],[1,-1,2]])
 r = np.linalg.inv(a)
 print(r)
 ## Output:
-<img width="1320" height="865" alt="image" src="https://github.com/user-attachments/assets/95e246da-1780-4bcc-b1c1-12b7483d915f" />
+<img width="1327" height="866" alt="image" src="https://github.com/user-attachments/assets/4162573a-b069-4079-92fb-82b5e4221a5f" />
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
